@@ -1,2 +1,5 @@
 plugins:
   - jekyll-feed
+title: test
+description: Welcome to my blog
+author: Dzhavat Ushev
